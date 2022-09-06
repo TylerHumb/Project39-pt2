@@ -451,3 +451,37 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9292.960902 seconds.
+  path: Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/Windows_1x0.6816.fbx
+  artifactKey: Guid(ba95617f96194124fa87435953c68c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/Windows_1x0.6816.fbx using Guid(ba95617f96194124fa87435953c68c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d19a697f2b223f51b6c1caaa2262ba7') in 0.175005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/medic box.fbx
+  artifactKey: Guid(abf70a5191de8ab46b4503c7e4b01058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/medic box.fbx using Guid(abf70a5191de8ab46b4503c7e4b01058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5b430a72da4fde78331f37d08a7dfc') in 0.061510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Polygon zombie package/mesh.texture/Zombie D.fbx
+  artifactKey: Guid(d50f1d5de3dacd44fa27385661586e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon zombie package/mesh.texture/Zombie D.fbx using Guid(d50f1d5de3dacd44fa27385661586e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd0b7b455f6b7e01934b01174401f4a') in 0.096227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/toilet papper holer.fbx
+  artifactKey: Guid(e2c0bbf371fe5dc4bb0eefbe88136805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/toilet papper holer.fbx using Guid(e2c0bbf371fe5dc4bb0eefbe88136805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db72ff604c83aa3030410122fd012d1') in 0.036950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/toilet cabin 1.fbx
+  artifactKey: Guid(0499e3c03d1f2a04982eb9b5f83a6b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon zombie package/mesh.texture/supermarket mesh,texture/toilet cabin 1.fbx using Guid(0499e3c03d1f2a04982eb9b5f83a6b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da028c138c6424a50c0b9e12daea332e') in 0.044880 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
