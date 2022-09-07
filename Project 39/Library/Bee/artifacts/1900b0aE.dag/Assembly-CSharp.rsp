@@ -350,13 +350,17 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/CDoor.cs"
+"Assets/CDoors.cs"
 "Assets/Doors.cs"
+"Assets/MDoors.cs"
+"Assets/ODoors.cs"
 "Assets/PlayerControls.cs"
 "Assets/RogueNoodle/GBCamera/Example Elements/Scripts/FadeMaterials.cs"
 "Assets/RogueNoodle/GBCamera/Example Elements/Scripts/RandomPalette.cs"
 "Assets/RogueNoodle/GBCamera/Example Elements/Scripts/RandomPaletteButton.cs"
 "Assets/RogueNoodle/GBCamera/Example Elements/Scripts/Rotate.cs"
+"Assets/SRDoors.cs"
+"Assets/SRIDoors.cs"
 "Assets/TDoor.cs"
 -langversion:9.0
 
