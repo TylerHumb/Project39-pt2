@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CDoor : MonoBehaviour
+public class SRIDoors : MonoBehaviour
 {
   public bool isAuto;
   public Animator anim;
